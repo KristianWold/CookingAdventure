@@ -1,1 +1,0 @@
-#q: how much mead did I make in 2024?
