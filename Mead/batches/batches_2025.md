@@ -80,7 +80,6 @@ FG = 0.995 -> 14.3%
 Backsweeten 36g fjellhoney/L (might need more)
 
 
-
 ## 10 Peter Trad
 
 5L
